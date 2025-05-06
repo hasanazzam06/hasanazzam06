@@ -63,9 +63,9 @@
 ### 🐍 My Contributions Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hasanazzam06/hasanazzam06/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NAMA_KAMU/NAMA_KAMU/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NAMA_KAMU/NAMA_KAMU/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
