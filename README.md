@@ -1,16 +1,30 @@
-## Hi there 👋
+<!-- Profil README.md -->
 
-<!--
-**hasanazzam06/hasanazzam06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Hasan</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  💡 Mahasiswa Teknik Elektro yang tertarik dengan dunia IoT, sistem tertanam (embedded), dan pemrograman drone. <br/>
+  🚀 Saat ini sedang mengeksplorasi machine learning & penerapannya pada pesawat RC dan sistem monitoring lingkungan.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.
+            
+---
+            ### 🎓 Education
+- Teknik Elektro, Universitas Indonesia (2023–Sekarang)
+
+### 🧠 Currently Learning
+- ✈️ Drone AI (Image Recognition & Autopilot)
+- 🤖 ROS2 untuk robotika
+
+### 🕹️ Fun Stuff
+![Snake animation](https://github.com/davin01/davin01/raw/output/github-contribution-grid-snake.svg)
+
