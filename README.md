@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
             
 ---
-            ### 🎓 Education
+### 🎓 Education
 - Teknik Elektro, Universitas Indonesia (2023–Sekarang)
 
 ### 🧠 Currently Learning
