@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.
             
 ---
             ### 🎓 Education
@@ -24,7 +23,4 @@
 ### 🧠 Currently Learning
 - ✈️ Drone AI (Image Recognition & Autopilot)
 - 🤖 ROS2 untuk robotika
-
-### 🕹️ Fun Stuff
-![Snake animation](https://github.com/davin01/davin01/raw/output/github-contribution-grid-snake.svg)
 
