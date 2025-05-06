@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="./github-header-image.png" alt="Header"/>
-</div>
 
 
 <h2 align="left">Hi 👋! My name is Hasan</h2>
