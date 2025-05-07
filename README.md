@@ -2,9 +2,6 @@
 
 <h2 align="left">Hi 👋! My name is Hasan</h2>
 
-
-<p align="center">💡 Mahasiswa Teknik Elektro yang tertarik dengan dunia IoT, sistem tertanam (embedded), dan pemrograman drone.<br>🚀 Saat ini sedang mengeksplorasi machine learning & penerapannya pada pesawat RC dan sistem monitoring lingkungan.</p>
-
 ---
 ### 🎓 Education
 - Teknik Elektro, Universitas Indonesia (2024–Sekarang)
