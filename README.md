@@ -1,18 +1,6 @@
 
 
 <h2 align="left">Hi 👋! My name is Hasan</h2>
-
----
-### 🎓 Education
-- Teknik Elektro, Universitas Indonesia (2024–Sekarang)
-
----
-
-### 🧠 Currently Learning
-- ✈️ Drone AI (Image Recognition & Autopilot)
-- 🤖 ROS2 untuk robotika
-- 🌐 Web Development
-
 ---
 
 
